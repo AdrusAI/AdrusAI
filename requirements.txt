@@ -1,0 +1,30 @@
+Core dependencies
+numpy==1.24.2         # Numerical computing library
+pandas==1.5.3         # Data manipulation and analysis
+
+AI and machine learning
+scikit-learn==1.2.1   # Machine learning models and tools
+
+Web framework for the dashboard
+flask==2.2.3          # Lightweight web framework for the dashboard UI
+
+Visualization
+matplotlib==3.7.1     # Data visualization and graphing
+
+Logging and monitoring
+loguru==0.6.0         # Advanced logging for better debugging
+
+Optional dependencies (can be installed if needed)
+uvicorn==0.22.0       # ASGI server for production deployments
+fastapi==0.95.0       # Alternative to Flask for API development
+
+Testing dependencies
+pytest==7.2.2         # Testing framework
+pytest-cov==4.0.0     # Test coverage reporting
+
+System dependencies
+psutil==5.9.4         # System and process utilities for monitoring resource usage
+
+Version control
+pre-commit==3.2.0     # Pre-commit hooks for maintaining code quality
+﻿
